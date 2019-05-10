@@ -1,0 +1,102 @@
+.header-logo{
+	font-size:50px;
+	font-family:fantasy;
+	background-color: yellow;
+	width:300px;
+	 float: left;
+}
+li{
+	padding-right:30px;
+	font-size: 25px;
+}
+.header-tag li{
+	background-color: gray;
+}
+
+.main{
+	background-color: beige;
+}
+.four{
+	color:purple;
+}
+.five{
+	color:blue;
+}
+.six{
+	color:green;
+}
+	li{
+	list-style: none;
+	float:left;
+	}
+.list{
+	float:left;
+}
+h4{
+	color:blue;
+	font-family:serif;
+	
+}
+p{
+	font-family:sans-serif;
+}
+.main{
+		color:black;
+}
+
+}
+ol{
+	color:black;
+	
+}
+img{
+	width:500px;
+
+}
+.one{
+	color:red;
+ }
+.two{
+	color:orange;
+}
+.three{
+	color:yellow;
+}
+
+span{
+	color:red;
+}
+.description li{
+	font-family:serif;
+}
+
+span{
+	color:red;
+	font-family: default;
+}
+
+
+
+
+
+
+.footer{
+	background-color: gray;
+}
+.footer-logo{
+	font-family:"Yu Mincho";
+	font-size: 40px;
+	color:white;
+	width:225px;
+}
+.footer-list li{
+	float:right;
+}
+.main span{
+	border-left: 2.5px solid red;
+	border-top: 2.5px solid red;
+	border-right: 2.5px solid red;
+	border-bottom: 2.5px solid red;
+} 
+
+
